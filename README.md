@@ -1,0 +1,3 @@
+# GameOfLife
+
+Created for interview.
